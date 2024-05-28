@@ -1,10 +1,4 @@
 name?
-<<<<<<< HEAD
 C
 B
 A
-
-
-=======
-A
->>>>>>> 6cbf5456527b22f6f71e1fd11ebbcd19f8c6fa94
